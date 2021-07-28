@@ -1,0 +1,11 @@
+frmSQL = 52, 52, 642, 646, C, 26, 26, 616, 620, C
+basMain = 104, 104, 694, 698, C
+frmTimeout = 0, 0, 0, 0, C, 52, 52, 642, 646, C
+frmConnect = 0, 0, 0, 0, C, 156, 156, 746, 750, C
+frmAbout = 52, 52, 642, 646, C, 182, 182, 772, 776, C
+clsMsg = 0, 0, 0, 0, C
+frmMain = 0, 0, 0, 0, C, 78, 78, 668, 672, C
+frmSearch = 0, 0, 0, 0, C, 234, 234, 824, 828, C
+clsArrangeQuery = 0, 0, 0, 0, C
+basCsv = 78, 78, 668, 672, C
+clsEditColor = 78, 78, 668, 672, C

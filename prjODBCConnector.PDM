@@ -1,0 +1,189 @@
+[Root]
+Most Recent Package=標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1
+
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\taka\Desktop\SQL Anyware\1.3.0\インストーラ
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Found]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Released]
+SQLAnyware.hlp=
+SQLAnyware.cnt=
+Readme.txt=
+広告.pdf=
+KEYWORD_COLOR.csv=
+KEYWORD_ARRANGE.CSV=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Missing Dependency Information]
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Out-of-Date Dependency Information]
+C:\Windows\System32\richtx32.ocx=
+C:\Windows\System32\comdlg32.ocx=
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Added]
+c:\users\taka\desktop\sql anyware\1.3.0\配布モジュール\広告.pdf=
+c:\users\taka\desktop\sql anyware\1.3.0\配布モジュール\readme.txt=
+keyword_arrange.csv=
+keyword_color.csv=
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\Readme.txt=
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\広告.pdf=
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Removed]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6JP.DLL=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCMCJP.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\DATGDJP.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGJP.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\Windows\System32\RCHTXJP.DLL=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\プログラム\isqlw\isqlw.exe=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\広告.pdf=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\Readme.txt=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=Yes
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=Yes
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Registry Files]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Remote Servers]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Install Locations]
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\プログラム\isqlw\isqlw.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6JP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCJP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTJP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DATGDJP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGJP.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\広告.pdf=$(AppPath)
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\Readme.txt=$(AppPath)
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\SQLAnyware.cnt=$(AppPath)
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\SQLAnyware.hlp=$(AppPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\プログラム\isqlw\isqlw.exe=$(AppPath)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Windows\System32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\RCHTXJP.DLL=$(WinSysPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=$(AppPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=$(AppPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\Readme.txt=$(AppPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=$(AppPath)
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\広告.pdf=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\プログラム\isqlw\isqlw.exe=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\広告.pdf=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\Readme.txt=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=$(AppPath)
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=$(AppPath)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\プログラム\isqlw\isqlw.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\広告.pdf=No
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\Readme.txt=No
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\SQLAnyware.cnt=No
+C:\Documents and Settings\All Users\Documents\ver.1.2.0\配布モジュール\SQLAnyware.hlp=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\プログラム\isqlw\isqlw.exe=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\Readme.txt=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=No
+C:\Users\taka\Desktop\ikachi\未完成\SQL Anyware\1.3.0\配布モジュール\広告.pdf=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\プログラム\isqlw\isqlw.exe=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\広告.pdf=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\Readme.txt=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_ARRANGE.CSV=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\KEYWORD_COLOR.csv=No
+C:\Users\taka\Desktop\SQL Anyware\1.3.0\配布モジュール\SQL Anyware.pdf=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Distribution]
+Type=single
+Size=
+Title=SQL Anyware
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|IconGroups]
+Group0=SQL Anyware
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|SQL Anyware]
+Icon1=isqlw.exe
+Title1=SQL Anyware
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=広告.pdf
+Title2=広告
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3=Readme.txt
+Title3=お読みください
+StartIn3=$(AppPath)
+Key3=Icon4
+Icon4="SQL Anyware.pdf"
+Title4=マニュアル
+StartIn4=$(AppPath)
+Key4=Icon5
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Package]
+PackageFolder=C:\Users\taka\Desktop\SQL Anyware\1.3.0\インストーラ
+ProjectFolder=C:\Users\taka\Desktop\SQL Anyware\1.3.0\プログラム\isqlw
+ServerSideCab=
+File1=C:\Users\taka\Desktop\SQL Anyware\1.3.0\インストーラ\setup.exe
+File2=C:\Users\taka\Desktop\SQL Anyware\1.3.0\インストーラ\Setup.Lst
+File3=C:\Users\taka\Desktop\SQL Anyware\1.3.0\インストーラ\isqlw.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
